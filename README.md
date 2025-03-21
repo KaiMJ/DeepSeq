@@ -1,5 +1,4 @@
-# Benchmarking Financial Trading with ML / DL models
-
+# Evaluating ML/DL Models for Trading Strategies
 
 ## Abstract
 
